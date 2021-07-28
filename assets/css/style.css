@@ -24,12 +24,6 @@ a:hover {
   text-decoration: none;
   display: inline-block;
 }
-/* section {
-  min-height: 500px;
-  padding-bottom: 70px;
-  display: flex;
-  align-items: center;
-} */
 .half_width {
   width: 40%;
   padding-left: 2%;
@@ -83,7 +77,7 @@ nav a {
 }
 /* About Section */
 #about {
-  background-image: url(/assets/images/7.png);
+  background-image: url(assets/images/7.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -171,7 +165,7 @@ footer {
 }
 /* Subscribe Section */
 #subscribe {
-  background-image: url(/assets/images/ProjectCover-4.png);
+  background-image: url(./assets/images/ProjectCover-4.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
